@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>John Wong&#39;s Blog</title>
+  
+  <subtitle>凛冬已至,寒风袭来;暗夜无边，危机四伏。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://machinefuture.top/"/>
+  <updated>2018-08-16T09:55:04.939Z</updated>
+  <id>http://machinefuture.top/</id>
+  
+  <author>
+    <name>976144283@qq.com</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LastTesla</title>
+    <link href="http://machinefuture.top/2018/08/16/LastTesla/"/>
+    <id>http://machinefuture.top/2018/08/16/LastTesla/</id>
+    <published>2018-08-16T09:55:04.000Z</published>
+    <updated>2018-08-16T09:55:04.939Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hexoadmin</title>
+    <link href="http://machinefuture.top/2018/08/16/hexoadmin-1/"/>
+    <id>http://machinefuture.top/2018/08/16/hexoadmin-1/</id>
+    <published>2018-08-16T09:13:44.000Z</published>
+    <updated>2018-08-16T09:13:44.492Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>JohnWong</title>
+    <link href="http://machinefuture.top/2018/08/16/JohnWong/"/>
+    <id>http://machinefuture.top/2018/08/16/JohnWong/</id>
+    <published>2018-08-16T08:30:00.000Z</published>
+    <updated>2018-08-16T08:52:16.816Z</updated>
+    
+    <content type="html"><![CDATA[<p>JohnWong deploy</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;JohnWong deploy&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>测试文章</title>
+    <link href="http://machinefuture.top/2018/08/15/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <id>http://machinefuture.top/2018/08/15/测试文章/</id>
+    <published>2018-08-15T13:02:00.000Z</published>
+    <updated>2018-08-16T07:32:05.696Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is a sublimeText test!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;This is a sublimeText test!&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="IT" scheme="http://machinefuture.top/categories/IT/"/>
+    
+    
+      <category term="测试" scheme="http://machinefuture.top/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>文章的标题</title>
+    <link href="http://machinefuture.top/2018/08/15/%E6%96%87%E7%AB%A0%E6%A8%A1%E6%9D%BF/"/>
+    <id>http://machinefuture.top/2018/08/15/文章模板/</id>
+    <published>2018-08-15T12:06:09.111Z</published>
+    <updated>2018-08-15T12:57:51.470Z</updated>
+    
+    <content type="html"><![CDATA[<p>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！<br>第一个文章测试模板！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;第一个文章测试模板！&lt;br&gt;第一个文章测试模板！&lt;br&gt;第一个文章测试模板！&lt;br&gt;第一个文章测试模板！&lt;br&gt;第一个文章测试模板！&lt;br&gt;第一个文章测试模板！&lt;br&gt;第一个文章测试模板！&lt;br&gt;第一个文章测试模板！&lt;br&gt;第一个文章测试模板！&lt;br&gt;第一个文章测试模板！&lt;
+      
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="http://machinefuture.top/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://machinefuture.top/2018/08/10/hello-world/"/>
+    <id>http://machinefuture.top/2018/08/10/hello-world/</id>
+    <published>2018-08-10T03:34:09.136Z</published>
+    <updated>2018-08-10T03:34:09.136Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
